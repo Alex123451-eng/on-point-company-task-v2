@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/on-point-company-task-v2/static/css/main.4822d93e.chunk.css",
+    "main.js": "/on-point-company-task-v2/static/js/main.a53dd6fd.chunk.js",
+    "main.js.map": "/on-point-company-task-v2/static/js/main.a53dd6fd.chunk.js.map",
+    "runtime-main.js": "/on-point-company-task-v2/static/js/runtime-main.1e21ccfa.js",
+    "runtime-main.js.map": "/on-point-company-task-v2/static/js/runtime-main.1e21ccfa.js.map",
+    "static/js/2.ed230b35.chunk.js": "/on-point-company-task-v2/static/js/2.ed230b35.chunk.js",
+    "static/js/2.ed230b35.chunk.js.map": "/on-point-company-task-v2/static/js/2.ed230b35.chunk.js.map",
+    "static/js/3.793f6d34.chunk.js": "/on-point-company-task-v2/static/js/3.793f6d34.chunk.js",
+    "static/js/3.793f6d34.chunk.js.map": "/on-point-company-task-v2/static/js/3.793f6d34.chunk.js.map",
+    "index.html": "/on-point-company-task-v2/index.html",
+    "static/css/main.4822d93e.chunk.css.map": "/on-point-company-task-v2/static/css/main.4822d93e.chunk.css.map",
+    "static/js/2.ed230b35.chunk.js.LICENSE.txt": "/on-point-company-task-v2/static/js/2.ed230b35.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/on-point-company-task-v2/static/media/lato-regular.56b4b9a2.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e21ccfa.js",
+    "static/js/2.ed230b35.chunk.js",
+    "static/css/main.4822d93e.chunk.css",
+    "static/js/main.a53dd6fd.chunk.js"
+  ]
+}
