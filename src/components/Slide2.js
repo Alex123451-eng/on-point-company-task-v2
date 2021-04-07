@@ -1,5 +1,10 @@
 import React from 'react';
 
+import ice1 from "../imgs/second/ice1.png";
+import ice2 from "../imgs/second/ice2.png";
+import ice3 from "../imgs/second/ice3.png";
+import ice4 from "../imgs/second/ice4.png";
+
 function Slide2(props) {
   const { start, end } = props;
 
@@ -40,28 +45,28 @@ function Slide2(props) {
 
       <img
         className="ice"
-        src="../imgs/second/ice1.png"
+        src={ice1}
         style={styleIce1}
         alt="ice"
       />
       
       <img
         className="ice"
-        src="../imgs/second/ice2.png"
+        src={ice2}
         style={styleIce2}
         alt="ice"
       />
 
       <img
         className="ice"
-        src="../imgs/second/ice3.png"
+        src={ice3}
         style={styleIce3}
         alt="ice"
       />
 
       <img
         className="ice"
-        src="../imgs/second/ice4.png"
+        src={ice4}
         style={styleIce4}
         alt="ice"
       />

@@ -1,5 +1,20 @@
 import React from 'react';
 
+import schemeLeft from "../imgs/third/left/left-scheme.png";
+import iceLeft1 from "../imgs/third/left/ice1.png";
+import iceLeft2 from "../imgs/third/left/ice2.png";
+import iceLeft3 from "../imgs/third/left/ice3.png";
+
+import schemeMid from "../imgs/third/mid/mid-scheme.png";
+import iceMid1 from "../imgs/third/mid/ice1.png";
+import iceMid2 from "../imgs/third/mid/ice2.png";
+import iceMid3 from "../imgs/third/mid/ice3-2.png";
+
+import schemeRight from "../imgs/third/right/right-scheme.png";
+import iceRight1 from "../imgs/third/right/ice1.png";
+import iceRight2 from "../imgs/third/right/ice2.png";
+import iceRight3 from "../imgs/third/right/ice3.png";
+
 class Slide3 extends React.Component {
   constructor() {
     super();
@@ -163,7 +178,7 @@ class Slide3 extends React.Component {
       >
         <div className={slide3BottomSlidesStyle}>
           <div className="slide3__left-slide">
-            <img src="../imgs/third/left/left-scheme.png" className="left-scheme" alt="scheme-1"/>
+            <img src={schemeLeft} className="left-scheme" alt="scheme-1"/>
 
             <div className="slide3__title">
               Звенья патогенеза СД2
@@ -171,28 +186,31 @@ class Slide3 extends React.Component {
 
             <img
               className="left-ice1 ice"
-              src="./imgs/third/left/ice1.png"
+              // src="./imgs/third/left/ice1.png"
+              src={iceLeft1}
               style={styleLeftIce1}
               alt="ice"
             />
             
             <img
               className="left-ice2 ice"
-              src="../imgs/third/left/ice2.png"
+              // src="../imgs/third/left/ice2.png"
+              src={iceLeft2}
               style={styleLeftIce2}
               alt="ice"
             />
 
             <img
               className="left-ice3 ice"
-              src="../imgs/third/left/ice3.png"
+              // src="../imgs/third/left/ice3.png"
+              src={iceLeft3}
               style={styleLeftIce3}
               alt="ice"
             />
           </div>
 
           <div className="slide3__mid-slide">
-            <img src="../imgs/third/mid/mid-scheme.png" className="mid-scheme"  alt="scheme-2"/>
+            <img src={schemeMid} className="mid-scheme"  alt="scheme-2"/>
 
             <div className="slide3__title">
               Смертельный октет
@@ -200,28 +218,28 @@ class Slide3 extends React.Component {
 
             <img
               className="mid-ice1 ice"
-              src="../imgs/third/mid/ice1.png"
+              src={iceMid1}
               style={styleMidIce1}
               alt="ice"
             />
             
             <img
               className="mid-ice2 ice"
-              src="../imgs/third/mid/ice2.png"
+              src={iceMid2}
               style={styleMidIce2}
               alt="ice"
             />
 
             <img
               className="mid-ice3 ice"
-              src="../imgs/third/mid/ice3-2.png"
+              src={iceMid3}
               style={styleMidIce3}
               alt="ice"
             />
           </div>
           
           <div className="slide3__right-slide">
-            <img src="../../imgs/third/right/right-scheme.png" className="right-scheme"  alt="scheme-3"/>
+            <img src={schemeRight} className="right-scheme"  alt="scheme-3"/>
 
             <div className="slide3__title">
               Звенья патогенеза СД2
@@ -229,21 +247,21 @@ class Slide3 extends React.Component {
 
             <img
               className="right-ice1 ice"
-              src="../imgs/third/right/ice1.png"
+              src={iceRight1}
               style={styleRightIce1}
               alt="ice"
             />
             
             <img
               className="right-ice2 ice"
-              src="../imgs/third/right/ice2.png"
+              src={iceRight2}
               style={styleRightIce2}
               alt="ice"
             />
 
             <img
               className="right-ice3 ice"
-              src="../imgs/third/right/ice3.png"
+              src={iceRight3}
               style={styleRightIce3}
               alt="ice"
             />
