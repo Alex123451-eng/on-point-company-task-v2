@@ -186,7 +186,6 @@ class Slide3 extends React.Component {
 
             <img
               className="left-ice1 ice"
-              // src="./imgs/third/left/ice1.png"
               src={iceLeft1}
               style={styleLeftIce1}
               alt="ice"
@@ -194,7 +193,6 @@ class Slide3 extends React.Component {
             
             <img
               className="left-ice2 ice"
-              // src="../imgs/third/left/ice2.png"
               src={iceLeft2}
               style={styleLeftIce2}
               alt="ice"
@@ -202,7 +200,6 @@ class Slide3 extends React.Component {
 
             <img
               className="left-ice3 ice"
-              // src="../imgs/third/left/ice3.png"
               src={iceLeft3}
               style={styleLeftIce3}
               alt="ice"
