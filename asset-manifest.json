@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/on-point-company-task-v2/static/css/main.4822d93e.chunk.css",
-    "main.js": "/on-point-company-task-v2/static/js/main.a53dd6fd.chunk.js",
-    "main.js.map": "/on-point-company-task-v2/static/js/main.a53dd6fd.chunk.js.map",
+    "main.js": "/on-point-company-task-v2/static/js/main.1bb6e343.chunk.js",
+    "main.js.map": "/on-point-company-task-v2/static/js/main.1bb6e343.chunk.js.map",
     "runtime-main.js": "/on-point-company-task-v2/static/js/runtime-main.1e21ccfa.js",
     "runtime-main.js.map": "/on-point-company-task-v2/static/js/runtime-main.1e21ccfa.js.map",
     "static/js/2.ed230b35.chunk.js": "/on-point-company-task-v2/static/js/2.ed230b35.chunk.js",
@@ -12,12 +12,24 @@
     "index.html": "/on-point-company-task-v2/index.html",
     "static/css/main.4822d93e.chunk.css.map": "/on-point-company-task-v2/static/css/main.4822d93e.chunk.css.map",
     "static/js/2.ed230b35.chunk.js.LICENSE.txt": "/on-point-company-task-v2/static/js/2.ed230b35.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/on-point-company-task-v2/static/media/lato-regular.56b4b9a2.ttf"
+    "static/media/index.css": "/on-point-company-task-v2/static/media/lato-regular.56b4b9a2.ttf",
+    "static/media/ice1.7196577d.png": "/on-point-company-task-v2/static/media/ice1.7196577d.png",
+    "static/media/ice2.63e9ba53.png": "/on-point-company-task-v2/static/media/ice2.63e9ba53.png",
+    "static/media/ice2.7b15dec4.png": "/on-point-company-task-v2/static/media/ice2.7b15dec4.png",
+    "static/media/ice2.a226bb1c.png": "/on-point-company-task-v2/static/media/ice2.a226bb1c.png",
+    "static/media/ice2.a96b5393.png": "/on-point-company-task-v2/static/media/ice2.a96b5393.png",
+    "static/media/ice3-2.b333404c.png": "/on-point-company-task-v2/static/media/ice3-2.b333404c.png",
+    "static/media/ice3.6e37de6f.png": "/on-point-company-task-v2/static/media/ice3.6e37de6f.png",
+    "static/media/ice3.9270961f.png": "/on-point-company-task-v2/static/media/ice3.9270961f.png",
+    "static/media/ice4.3bf9af19.png": "/on-point-company-task-v2/static/media/ice4.3bf9af19.png",
+    "static/media/left-scheme.2f524a5f.png": "/on-point-company-task-v2/static/media/left-scheme.2f524a5f.png",
+    "static/media/mid-scheme.b8959de8.png": "/on-point-company-task-v2/static/media/mid-scheme.b8959de8.png",
+    "static/media/right-scheme.e3848482.png": "/on-point-company-task-v2/static/media/right-scheme.e3848482.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1e21ccfa.js",
     "static/js/2.ed230b35.chunk.js",
     "static/css/main.4822d93e.chunk.css",
-    "static/js/main.a53dd6fd.chunk.js"
+    "static/js/main.1bb6e343.chunk.js"
   ]
 }
